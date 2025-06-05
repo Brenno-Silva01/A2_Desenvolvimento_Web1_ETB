@@ -1,0 +1,94 @@
+h3{
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+#banner{
+    background-color: black;
+    padding: auto;
+}
+
+#banner h1{
+    text-align: center;
+    color: white;
+    font-family: Papyrus, fantasy;
+}
+
+#banner h2{
+    text-align: center;
+    color: white;
+    font-family: Papyrus, fantasy;
+}
+
+#categorias h2{
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+#submenu h2{
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+#rodape{
+    background-color: black;
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+#rodape p{
+    color: white;
+}
+
+#destaques p{
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+#jogos p{
+    text-align: center;
+    font-family: Copperplate, fantasy;
+}
+
+td.imagem{
+    text-align: center;
+    vertical-align: middle;
+}
+
+td.imagem img{
+    border-radius: 10px; /* Arredonda as bordas das imagens */
+}
+
+.voltar{
+    list-style: none;    /* Remove os marcadores (bolinhas) */
+}
+
+.voltar a{
+    font-family: Copperplate, fantasy;
+}
+
+.menu{
+    list-style: none;    /* Remove os marcadores (bolinhas) */
+    display: flex;       /* Deixa os itens na horizontal */
+    gap: 200px;           /* Espaço entre os itens */
+    justify-content: center;    /* Centraliza os intens */
+}
+
+.menu a {
+    font-family: Copperplate, fantasy;
+}
+
+.categorias{
+    list-style: none;    /* Remove os marcadores (bolinhas) */
+    display: flex;       /* Deixa os itens na horizontal */
+    gap: 100px;           /* Espaço entre os itens */
+    justify-content: center;    /* Centraliza os intens */
+}
+
+.categorias a {
+    font-family: Copperplate, fantasy;
+}
+
+.subtitulo{
+    background-color: gray;
+}
