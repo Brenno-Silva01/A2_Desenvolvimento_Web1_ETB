@@ -4,7 +4,7 @@ Este é um site simples desenvolvido com HTML e CSS na qual apresenta uma loja o
 
 ## 📍 Acesse o site
 
-[Veja o site no GitHub Pages](https://brenno-silva01.github.io/Desenvolvimento_Web1_ETB/)
+[Veja o site no GitHub Pages](https://brenno-silva01.github.io/A2_Desenvolvimento_Web1_ETB/)
 
 ## 💻 Tecnologias Utilizadas
 
